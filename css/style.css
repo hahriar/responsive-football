@@ -424,29 +424,6 @@ Tablet responsive area
     font-size: 45px;
     margin-bottom: 20px;
   }
-
-  /* hero animation */
-  @keyframes football {
-    from{
-      top:100px;
-      left: 0;
-    }
-    to{
-      top:200px;
-      left: 30px;
-    }
-  }
-  @keyframes player {
-    from{
-      bottom: 0;
-      right: 0;
-    }
-    to{
-      bottom: 50px;
-      right: 28px;
-    }
-  }
-
   /* players section */
   #players .players-wrap{
     grid-template-columns: repeat(2, 1fr);
