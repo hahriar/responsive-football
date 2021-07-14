@@ -329,7 +329,7 @@ footer p.copy-right{
 
 
 /* ===========================================
-    Responsive zoon
+       Responsive zoon
 ==============================================*/
 
 
@@ -337,7 +337,7 @@ footer p.copy-right{
 
 
 /* ---------------------------------------
-  Mobile responsive area
+       Mobile responsive area
 --------------------------------------- */
 @media (max-width: 576px) { 
   .container{
@@ -346,6 +346,10 @@ footer p.copy-right{
   }
 
   /* header responsive */
+
+  .hero-image{
+    margin-top: 93px;
+  }
 
   .header .menu{
     display: none;
