@@ -123,29 +123,12 @@ img{
   color: #FFF;
   margin-bottom: 20px;
 }
-#hero .hero-image{
+.hero-image{
   position: relative;
-}
-#hero .hero-image img{
-  position: relative;
-}
-#hero .hero-image img{
-  left: 0;
-  top: 100px;
-  height: 120px;
-}
-#hero .hero-image img{
-  right: 0;
-  bottom: 0;
-}
-#hero:hover .hero-image img{ 
-  animation: football 1.5s linear infinite running alternate;
-}
-#hero:hover .hero-image img{
-  animation: player 1.5s linear infinite running alternate;
 }
 
-/* ! hero seciton design */
+
+/* =======! hero seciton design========== */
 
 
 /* players section design */
@@ -297,12 +280,12 @@ img{
   filter: grayscale(0);
 
 }
-/*  ! EXTRA SECTION Latest article sention design */
+/*  !Latest article section design */
 
 
 
 
-/* footer seciton design */
+/* footer section design */
 footer{
   padding: 20px 0;
 }
